@@ -1,11 +1,9 @@
 # ELPC Results Portal
 
-Run:
-npm install
-npm start
+Easy Learn Physics Classes student result portal.
 
-Default admin:
-- ID: admin
-- Password: admin123
+## Render deployment
+- Build command: `npm install`
+- Start command: `npm start`
 
-Change the password immediately after first login.
+Default admin credentials for first login: `admin` / `admin123`. Change the password immediately after deployment.
